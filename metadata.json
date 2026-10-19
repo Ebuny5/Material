@@ -1,0 +1,6 @@
+{
+  "name": "Build What You See",
+  "description": "Wearable electronics engineer production guide generator: cost-slashing BOM and illustrated assembly manual from device diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
