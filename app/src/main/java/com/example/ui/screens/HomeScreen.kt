@@ -568,7 +568,7 @@ fun HomeScreen(
                                 ) {
                                     Icon(Icons.Default.PhotoLibrary, contentDescription = null, tint = Color(0xFF0F172A))
                                     Spacer(modifier = Modifier.width(6.dp))
-                                    Text("Choose from Gallery", color = Color(0xFF0F172A), fontWeight = FontWeight.Bold, fontSize = 13.sSp())
+                                    Text("Choose from Phone Gallery", color = Color(0xFF0F172A), fontWeight = FontWeight.Bold, fontSize = 13.sSp())
                                 }
 
                                 OutlinedButton(
